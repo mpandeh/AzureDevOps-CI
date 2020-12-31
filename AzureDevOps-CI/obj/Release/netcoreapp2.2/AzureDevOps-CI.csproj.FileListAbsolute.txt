@@ -1,0 +1,17 @@
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Release\netcoreapp2.2\appsettings.Development.json
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Release\netcoreapp2.2\appsettings.json
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Release\netcoreapp2.2\AzureDevOps-CI.deps.json
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Release\netcoreapp2.2\AzureDevOps-CI.runtimeconfig.json
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Release\netcoreapp2.2\AzureDevOps-CI.runtimeconfig.dev.json
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Release\netcoreapp2.2\AzureDevOps-CI.dll
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Release\netcoreapp2.2\AzureDevOps-CI.pdb
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Release\netcoreapp2.2\AzureDevOps-CI.csprojAssemblyReference.cache
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Release\netcoreapp2.2\AzureDevOps-CI.AssemblyInfoInputs.cache
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Release\netcoreapp2.2\AzureDevOps-CI.AssemblyInfo.cs
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Release\netcoreapp2.2\AzureDevOps-CI.csproj.CoreCompileInputs.cache
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Release\netcoreapp2.2\AzureDevOps-CI.RazorAssemblyInfo.cache
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Release\netcoreapp2.2\AzureDevOps-CI.RazorAssemblyInfo.cs
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Release\netcoreapp2.2\AzureDevOps-CI.RazorTargetAssemblyInfo.cache
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Release\netcoreapp2.2\AzureDevOps-CI.dll
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Release\netcoreapp2.2\AzureDevOps-CI.pdb
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\obj\Release\netcoreapp2.2\AzureDevOps-CI.genruntimeconfig.cache

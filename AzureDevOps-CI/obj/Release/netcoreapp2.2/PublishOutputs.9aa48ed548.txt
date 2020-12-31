@@ -1,0 +1,6 @@
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Release\netcoreapp2.2\publish\appsettings.Development.json
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Release\netcoreapp2.2\publish\appsettings.json
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Release\netcoreapp2.2\publish\AzureDevOps-CI.dll
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Release\netcoreapp2.2\publish\AzureDevOps-CI.runtimeconfig.json
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Release\netcoreapp2.2\publish\AzureDevOps-CI.pdb
+E:\MSAzureDevOps\Linkedin\Ex_Files_Azure_Dev_Ops_Continuous_Integration\Exercise Files\CH01\01_02\AzureDevOps-CI\AzureDevOps-CI\bin\Release\netcoreapp2.2\publish\AzureDevOps-CI.deps.json
